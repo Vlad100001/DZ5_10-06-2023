@@ -1,0 +1,15 @@
+C:\Users\ДОМ\Downloads\DZ5_10.06.2023\DZ5_10-06-2023\ex 38\obj\Debug\net6.0\ex 38.csproj.AssemblyReference.cache
+C:\Users\ДОМ\Downloads\DZ5_10.06.2023\DZ5_10-06-2023\ex 38\obj\Debug\net6.0\ex 38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДОМ\Downloads\DZ5_10.06.2023\DZ5_10-06-2023\ex 38\obj\Debug\net6.0\ex 38.AssemblyInfoInputs.cache
+C:\Users\ДОМ\Downloads\DZ5_10.06.2023\DZ5_10-06-2023\ex 38\obj\Debug\net6.0\ex 38.AssemblyInfo.cs
+C:\Users\ДОМ\Downloads\DZ5_10.06.2023\DZ5_10-06-2023\ex 38\obj\Debug\net6.0\ex 38.csproj.CoreCompileInputs.cache
+C:\Users\ДОМ\Downloads\DZ5_10.06.2023\DZ5_10-06-2023\ex 38\bin\Debug\net6.0\ex 38.exe
+C:\Users\ДОМ\Downloads\DZ5_10.06.2023\DZ5_10-06-2023\ex 38\bin\Debug\net6.0\ex 38.deps.json
+C:\Users\ДОМ\Downloads\DZ5_10.06.2023\DZ5_10-06-2023\ex 38\bin\Debug\net6.0\ex 38.runtimeconfig.json
+C:\Users\ДОМ\Downloads\DZ5_10.06.2023\DZ5_10-06-2023\ex 38\bin\Debug\net6.0\ex 38.dll
+C:\Users\ДОМ\Downloads\DZ5_10.06.2023\DZ5_10-06-2023\ex 38\bin\Debug\net6.0\ex 38.pdb
+C:\Users\ДОМ\Downloads\DZ5_10.06.2023\DZ5_10-06-2023\ex 38\obj\Debug\net6.0\ex 38.dll
+C:\Users\ДОМ\Downloads\DZ5_10.06.2023\DZ5_10-06-2023\ex 38\obj\Debug\net6.0\refint\ex 38.dll
+C:\Users\ДОМ\Downloads\DZ5_10.06.2023\DZ5_10-06-2023\ex 38\obj\Debug\net6.0\ex 38.pdb
+C:\Users\ДОМ\Downloads\DZ5_10.06.2023\DZ5_10-06-2023\ex 38\obj\Debug\net6.0\ex 38.genruntimeconfig.cache
+C:\Users\ДОМ\Downloads\DZ5_10.06.2023\DZ5_10-06-2023\ex 38\obj\Debug\net6.0\ref\ex 38.dll
